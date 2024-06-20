@@ -14,4 +14,4 @@ Run tests
 
 ## Live demo
 
-To see the deployed demo, click [here](Link will follow)
+To see the deployed demo, click [here](https://buena-coding-challenge.vercel.app/)
